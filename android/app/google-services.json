@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316418790596",
+    "project_id": "banana-keraton",
+    "storage_bucket": "banana-keraton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316418790596:android:84e5088c06ba993cebe591",
+        "android_client_info": {
+          "package_name": "com.example.uaskelompok_pam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEuK9uDttXZ6u-_iKrOALvCi64GlIkWTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
